@@ -1,0 +1,28 @@
+{
+    "educations" : [
+        {
+            "id": 1,
+            "date": 2019,
+            "place": "Forest Heights High",
+            "certif": "Grade 12 Certificate"
+        },
+        {
+            "id": 2,
+            "date": 2020,
+            "place": "South Africa College of Tourism (SACT)",
+            "certif": "Hospitality Certificate"
+        },
+        {
+            "id": 3,
+            "date": 2021,
+            "place": "Boland College",
+            "certif": "N4/N5 Educare Certificate"
+        },
+        {
+            "id": 4,
+            "date": 2022,
+            "place": "The TEFL Acadamy",
+            "certif": "Level 5 TEFL Certificate"
+        }
+    ]
+}

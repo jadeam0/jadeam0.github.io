@@ -1,0 +1,52 @@
+{
+    "projects" : [
+        {
+            "id": 1,
+            "image_url": "https://i.postimg.cc/ht4hk2VS/orbit.png",
+            "name": "Orbit",
+            "desc": "Earth and moon orbitiong while spining.",
+            "git_url": "https://github.com/jadeam0/css-animation-ply.git",
+            "netli_url": "https://heroic-crostata-8b3265.netlify.app/"
+        },
+        {
+            "id": 2,
+            "image_url": "https://i.postimg.cc/KvBYkdDc/about.png",
+            "name": "About page",
+            "desc": "About page made using float to position containers",
+            "git_url": "https://github.com/jadeam0/css_ex_group.git",
+            "netli_url": "https://reliable-souffle-6d2315.netlify.app/"
+        },
+        {
+            "id": 3,
+            "image_url": "https://i.postimg.cc/FKRmZq3L/class.png",
+            "name": "Class register",
+            "desc": "Collums and a contact form on one page.",
+            "git_url": "https://github.com/jadeam0/Table-challange.git",
+            "netli_url": "https://darling-zabaione-229e3b.netlify.app/"
+        },
+        {
+            "id": 4,
+            "image_url": "https://i.postimg.cc/gJtxs8xY/coldplay.png",
+            "name": "Coldplay Home page",
+            "desc": "Coldplay themed home page.",
+            "git_url": "https://github.com/cj-the-owl/group-exercisept2.git",
+            "netli_url": "https://bucolic-hamster-8bd71b.netlify.app/"
+        },
+        {
+            "id": 5,
+            "image_url": "https://i.postimg.cc/MX2K3Dq8/Death-parade.png",
+            "name": "Home Page",
+            "desc": "A pretty Home page",
+            "git_url": "https://github.com/jadeam0/animation_ex.git",
+            "netli_url": "https://aesthetic-basbousa-dd5a7e.netlify.app/"
+        },
+        {
+            "id": 6,
+            "image_url": "https://i.postimg.cc/yxqk2By5/meli.png",
+            "name": "First Html and Css website",
+            "desc": "Meliodes themed website.",
+            "git_url": "https://github.com/jadeam0/7-deadly-sin.git",
+            "netli_url": "https://jovial-pie-d0f329.netlify.app/"
+        }
+    ]
+}

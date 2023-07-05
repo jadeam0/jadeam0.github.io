@@ -1,5 +1,5 @@
-{
-    "projects" : [
+
+     [
         {
             "id": 1,
             "image_url": "https://i.postimg.cc/ht4hk2VS/orbit.png",
@@ -49,4 +49,3 @@
             "netli_url": "https://jovial-pie-d0f329.netlify.app/"
         }
     ]
-}

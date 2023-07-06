@@ -1,0 +1,112 @@
+{
+    "projects" : [
+        {
+            "id": 1,
+            "image_url": "https://i.postimg.cc/ht4hk2VS/orbit.png",
+            "name": "Orbit",
+            "desc": "Earth and moon orbitiong while spining.",
+            "git_url": "https://github.com/jadeam0/css-animation-ply.git",
+            "netli_url": "https://heroic-crostata-8b3265.netlify.app/"
+        },
+        {
+            "id": 2,
+            "image_url": "https://i.postimg.cc/KvBYkdDc/about.png",
+            "name": "About page",
+            "desc": "About page made using float to position containers",
+            "git_url": "https://github.com/jadeam0/css_ex_group.git",
+            "netli_url": "https://reliable-souffle-6d2315.netlify.app/"
+        },
+        {
+            "id": 3,
+            "image_url": "https://i.postimg.cc/FKRmZq3L/class.png",
+            "name": "Class register",
+            "desc": "Collums and a contact form on one page.",
+            "git_url": "https://github.com/jadeam0/Table-challange.git",
+            "netli_url": "https://darling-zabaione-229e3b.netlify.app/"
+        },
+        {
+            "id": 4,
+            "image_url": "https://i.postimg.cc/gJtxs8xY/coldplay.png",
+            "name": "Coldplay Home page",
+            "desc": "Coldplay themed home page.",
+            "git_url": "https://github.com/cj-the-owl/group-exercisept2.git",
+            "netli_url": "https://bucolic-hamster-8bd71b.netlify.app/"
+        },
+        {
+            "id": 5,
+            "image_url": "https://i.postimg.cc/MX2K3Dq8/Death-parade.png",
+            "name": "Home Page",
+            "desc": "A pretty Home page",
+            "git_url": "https://github.com/jadeam0/animation_ex.git",
+            "netli_url": "https://aesthetic-basbousa-dd5a7e.netlify.app/"
+        },
+        {
+            "id": 6,
+            "image_url": "https://i.postimg.cc/yxqk2By5/meli.png",
+            "name": "First Html and Css website",
+            "desc": "Meliodes themed website.",
+            "git_url": "https://github.com/jadeam0/7-deadly-sin.git",
+            "netli_url": "https://jovial-pie-d0f329.netlify.app/"
+        }
+    ],
+
+    "testimonials" : [
+        {
+            "id": 1,
+            "name": "Taahirah Ismail",
+            "image_url": "https://i.postimg.cc/C1RhFtKg/C12-Taahirah-Ismail-1.jpg",
+            "par": "From working with Jadee even for a few weeks, I can tell how passionate she is about what she does. She's always trying new things and won't stop until she has them done perfectly. She's also really helpful when in a crunch and is a great person to have around when in need."
+        },
+        {
+            "id": 2,
+            "name":"Lyle Brown",
+            "image_url":"https://i.postimg.cc/VLdyrM9Y/C12-C-1-Lyle-Brown-2.jpg",
+            "par":"I had the pleasure of working with Jadee on a very tricky project. She led the group well. I admire her resilience. She is always open to learning and helping when in need. 10/10 person, would highly recommend!"
+        },
+        {
+            "id": 3,
+            "name":"Caryn-Jayn Lodewyk",
+            "image_url":"https://i.postimg.cc/4NDtB2bn/Caryn.jpg",
+            "par":"Jadee is an extremely strong, hard-working and dedicated person. She is always ready to take on any issues and does not hesitate to help the next one with any problems they're having. I would definitely recommend her and work with her anytime."
+        },
+        {
+            "id": 4,
+            "name":"John-Bruce Noad",
+            "image_url":"ttps://i.postimg.cc/fLNtkD6N/john-bruce-noad-portfolio-photo.jpg",
+            "par":"I highly recommend Jadee for any web development projects. Their exceptional skills, dedication, and eagerness to learn are truly impressive. She have a eye for design, a deep understanding of programming languages, and an ability to solve complex problems efficiently. Their commitment to meeting deadlines and the work they put towards achieving their results is outstanding. Working with Jadee was a pleasure, and I have no doubt that they will thrive in their future endeavors as a professional web developer. I wholeheartedly endorse them for any web development opportunities!"
+        },
+        {
+            "id": 5,
+            "name":"Timothy Barry",
+            "image_url":"https://i.postimg.cc/g24m3dXp/C12-Timothy-Barry-1.jpg",
+            "par":"Jadee is a very nice and kind person. She is also very smart and if you ever struggle with something she is always eager to try and help you figure out your problem. She always gives me ideas for my project sometimes small sometimes big but nonetheless she is just a cool person in general."
+        }
+    ],
+
+    "education" : [
+        {
+            "id": 1,
+            "date": 2019,
+            "place": "Forest Heights High",
+            "certif": "Grade 12 Certificate"
+        },
+        {
+            "id": 2,
+            "date": 2020,
+            "place": "South Africa College of Tourism (SACT)",
+            "certif": "Hospitality Certificate"
+        },
+        {
+            "id": 3,
+            "date": 2021,
+            "place": "Boland College",
+            "certif": "N4/N5 Educare Certificate"
+        },
+        {
+            "id": 4,
+            "date": 2022,
+            "place": "The TEFL Acadamy",
+            "certif": "Level 5 TEFL Certificate"
+        }
+    ]
+}

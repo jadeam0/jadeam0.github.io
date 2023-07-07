@@ -47,6 +47,54 @@
             "desc": "Meliodes themed website.",
             "git_url": "https://github.com/jadeam0/7-deadly-sin.git",
             "netli_url": "https://jovial-pie-d0f329.netlify.app/"
+        },
+        {
+            "id": 7,
+            "image_url": "https://i.postimg.cc/Zqxx6sbR/Screenshot-2023-07-07-120625.png",
+            "name": "Calculator",
+            "desc": "A calculator build in JS.",
+            "git_url": "https://github.com/jadeam0/calculator.git",
+            "netli_url": "https://dashing-cocada-275799.netlify.app/"
+        },
+        {
+            "id": 8,
+            "image_url": "https://i.postimg.cc/d3wRWzBp/Screenshot-2023-07-07-121045.png",
+            "name": "BMI Calculator",
+            "desc": "A BMI calculator build in JS.",
+            "git_url": "https://github.com/jadeam0/BMI-calculator.git",
+            "netli_url": "https://luminous-madeleine-6d21ce.netlify.app/"
+        },
+        {
+            "id": 9,
+            "image_url": "https://i.postimg.cc/76dRRPch/Screenshot-2023-07-07-121358.png",
+            "name": "Temperature Converter",
+            "desc": "A temp converter build in JS.",
+            "git_url": "https://github.com/jadeam0/temp-calcu.git",
+            "netli_url": "https://cheerful-douhua-e53e59.netlify.app/"
+        },
+        {
+            "id": 10,
+            "image_url": "https://i.postimg.cc/MHxdjcfC/Screenshot-2023-07-07-121616.png",
+            "name": "Tech Up",
+            "desc": "A simple Ecommers site a practice run.",
+            "git_url": "https://github.com/jadeam0/gadget-shop.git",
+            "netli_url": "https://sensational-bonbon-068662.netlify.app/"
+        },
+        {
+            "id": 11,
+            "image_url": "https://i.postimg.cc/TYfMm9z4/Screenshot-2023-07-07-122232.png",
+            "name": "To-do List",
+            "desc": "A todo list made in JS.",
+            "git_url": "https://github.com/jadeam0/to-do-list.git",
+            "netli_url": "https://cheery-moonbeam-389e98.netlify.app/"
+        },
+        {
+            "id": 12,
+            "image_url": "https://i.postimg.cc/qqM7mTtN/Screenshot-2023-07-07-122503.png",
+            "name": "Anime Galore",
+            "desc": "My first full JS project, a anime ecommers site.",
+            "git_url": "https://github.com/jadeam0/EOMP-Ecommers_site.git",
+            "netli_url": "https://lucent-paprenjak-05829b.netlify.app/"
         }
     ],
 
@@ -80,6 +128,12 @@
             "name":"Timothy Barry",
             "image_url":"https://i.postimg.cc/g24m3dXp/C12-Timothy-Barry-1.jpg",
             "par":"Jadee is a very nice and kind person. She is also very smart and if you ever struggle with something she is always eager to try and help you figure out your problem. She always gives me ideas for my project sometimes small sometimes big but nonetheless she is just a cool person in general."
+        },
+        {
+            "id": 6,
+            "name":"Cheslyn Herman",
+            "image_url":"https://i.postimg.cc/1ts3jCbs/C12-Cheslyn-Herman-1.jpg",
+            "par":"Jadee is a committed and meticulous professional who regularly produces top-notch work. They are an invaluable asset to any company due to their versatility, excellent communication abilities, and enthusiasm for learning. Because of [Your Name]'s great work ethic and upbeat attitude, I heartily recommend them."
         }
     ],
 

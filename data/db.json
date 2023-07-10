@@ -1,140 +1,138 @@
 {
-    "products": [
-  {
-    "id": 1,
-    "image": "https://i.postimg.cc/PfDkpyLs/id-1.jpg",
-    "name": "Nezuko Demon slayer figurine 15cm",
-    "desc": "What better way to fill your shelves than with awesome PVC plastic figurines?This Nezuki Demon Slayer figurine is sure to make any collection look amazing!",
-    "price": 300,
-    "category": "Figurines",
-    "quantity": 7
-  },
-  {
-    "id": 2,
-    "image": "https://i.postimg.cc/d1HDhBDT/id-2.jpg",
-    "name": "Bulbasaur 8cm Habitat ball",
-    "desc": "Discover what the world really looks like inside a Pokeball. 8cm PVC plastic ornamental Pokemon habitat ball/ Pokemon terrarium.",
-    "price": 150,
-    "category": "Habitats",
-    "quantity": 8
-  },
-  {
-    "id": 3,
-    "image": "https://i.postimg.cc/bvy7y6wx/id-3.jpg",
-    "name": "Ninetales Plush Toy 23cm",
-    "desc": "This Ninetails is soft and comfortable to touch, while also being durable enough to withstand regular wear and tear. ",
-    "price": 350,
-    "category": "Plushies",
-    "quantity": 10
-  },
-  {
-    "id": 4,
-    "image": "https://i.postimg.cc/D01WvfxY/id-4.jpg",
-    "name": "Zenetsu demon slayer 19cm",
-    "desc": "What better way to fill your shelves than with awesome PVC plastic figurines? This Zenetsu Demon Slayer figurine is sure to make any collection look amazing!",
-    "price": 400,
-    "category": "Figurines",
-    "quantity": 3
-  },
-  {
-    "id": 5,
-    "image": "https://i.postimg.cc/gkR5p9mX/id-5.jpg",
-    "name": "Rowlet 8cm Habitat ball",
-    "desc": "Discover what the world really looks like inside a Pokeball. 8cm PVC plastic ornamental Pokemon habitat ball/ Pokemon terrarium.",
-    "price": 150,
-    "category": "Habitats",
-    "quantity": 4
-  },
-  {
-    "id": 6,
-    "image": "https://i.postimg.cc/mDLRzLZ5/id-6.jpg",
-    "name": "Mewtwo Plush Toy 25cm",
-    "desc": "This Mewtwo is soft and comfortable to touch, while also being durable enough to withstand regular wear and tear. ",
-    "price": 350,
-    "category": "Plushies",
-    "quantity": 4
-  },
-  {
-    "id": 7,
-    "image": "https://i.postimg.cc/WpmWYGng/id-7.jpg",
-    "name": "Ichigo Bleach figurine 22cm",
-    "desc": "What better way to fill your shelves than with awesome PVC plastic figurines? This Bleach figurine is sure to make any collection look amazing!",
-    "price": 700,
-    "category": "Figurines",
-    "quantity": 5
-  },
-  {
-    "id": 8,
-    "image": "https://i.postimg.cc/g2bBgM9V/id-8.jpg",
-    "name": "Pikachu 8cm Habitat ball",
-    "desc": "Discover what the world really looks like inside a Pokeball. 8cm PVC plastic ornamental Pokemon habitat ball/ Pokemon terrarium.",
-    "price": 150,
-    "category": "Habitats",
-    "quantity": 1
-  },
-  {
-    "id": 9,
-    "image": "https://i.postimg.cc/PJHxH2yn/id-9.jpg",
-    "name": "Gengar Plush Toy 23cm",
-    "desc": "This Gengar is soft and comfortable to touch, while also being durable enough to withstand regular wear and tear.",
-    "price": 350,
-    "category": "Plushies",
-    "quantity": 7
-  },
-  {
-    "id": 10,
-    "image": "https://i.postimg.cc/gJ629fP0/id-10.jpg",
-    "name": "Inosuke Demon slayer figurine 15cm",
-    "desc": "What better way to fill your shelves than with awesome PVC plastic figurines? This Inosuke Demon Slayer figurine is sure to make any collection look amazing!",
-    "price": 300,
-    "category": "Figurines",
-    "quantity": 8
-  },
-  {
-    "id": 11,
-    "image": "https://i.postimg.cc/L5VXvwP0/id-11.jpg",
-    "name": "Jojo's bizarre adventures pen figurine 20cm",
-    "desc": "This Jojo's bizarre adventures figurine is sure to make any collection look amazing! And it doubles as a pen!",
-    "price": 500,
-    "category": "Figurines",
-    "quantity": 8
-  },
-  {
-    "id": 12,
-    "image": "https://i.postimg.cc/VNfZGHh0/id-12.jpg",
-    "name": "Totoro 8cm Habitat ball",
-    "desc": "Discover what the world really looks like inside a Pokeball. 8cm PVC plastic ornamental Pokemon habitat ball/ Pokemon terrarium.",
-    "price": 150,
-    "category": "Habitats",
-    "quantity": 8
-  },
-  {
-    "id": 13,
-    "image": "https://i.postimg.cc/SKQq6d7D/id-13.jpg",
-    "name": "Stitch 8cm Habitat ball",
-    "desc": "Get your Ohana together with this Stitch habitat ball. 8cm PVC plastic ornamental habitat ball/ terrarium.",
-    "price": 150,
-    "category": "Habitats",
-    "quantity": 2
-  },
-  {
-    "id": 14,
-    "image": "https://i.postimg.cc/HLtN2Csy/id-14.jpg",
-    "name": "1.5m snorlax ",
-    "desc": "When it comes to cuddling up with a soft and cuddly plush toy, Chaos Kraft's Snorlax Plush Toy is the perfect choice.",
-    "price": 1700,
-    "category": "Plushies",
-    "quantity": 4
-  },
-  {
-    "id": 15,
-    "image": "https://i.postimg.cc/vBqFMxjh/id-15.jpg",
-    "name": "Appa Plush Toy 50cm",
-    "desc": "This Appa is soft and comfortable to touch, while also being durable enough to withstand regular wear and tear. ",
-    "price": 500,
-    "category": "Plushies",
-    "quantity": 9
-  }
-]
+    "projects" : [
+        {
+            "id": 1,
+            "image_url": "https://i.postimg.cc/ht4hk2VS/orbit.png",
+            "name": "Orbit",
+            "desc": "Earth and moon orbitiong while spining.",
+            "git_url": "https://github.com/jadeam0/css-animation-ply.git",
+            "netli_url": "https://heroic-crostata-8b3265.netlify.app/"
+        },
+        {
+            "id": 2,
+            "image_url": "https://i.postimg.cc/KvBYkdDc/about.png",
+            "name": "About page",
+            "desc": "About page made using float to position containers",
+            "git_url": "https://github.com/jadeam0/css_ex_group.git",
+            "netli_url": "https://reliable-souffle-6d2315.netlify.app/"
+        },
+        {
+            "id": 3,
+            "image_url": "https://i.postimg.cc/FKRmZq3L/class.png",
+            "name": "Class register",
+            "desc": "Collums and a contact form on one page.",
+            "git_url": "https://github.com/jadeam0/Table-challange.git",
+            "netli_url": "https://darling-zabaione-229e3b.netlify.app/"
+        },
+        {
+            "id": 4,
+            "image_url": "https://i.postimg.cc/gJtxs8xY/coldplay.png",
+            "name": "Coldplay Home page",
+            "desc": "Coldplay themed home page.",
+            "git_url": "https://github.com/cj-the-owl/group-exercisept2.git",
+            "netli_url": "https://bucolic-hamster-8bd71b.netlify.app/"
+        },
+        {
+            "id": 5,
+            "image_url": "https://i.postimg.cc/MX2K3Dq8/Death-parade.png",
+            "name": "Home Page",
+            "desc": "A pretty Home page",
+            "git_url": "https://github.com/jadeam0/animation_ex.git",
+            "netli_url": "https://aesthetic-basbousa-dd5a7e.netlify.app/"
+        },
+        {
+            "id": 6,
+            "image_url": "https://i.postimg.cc/yxqk2By5/meli.png",
+            "name": "First Html and Css website",
+            "desc": "Meliodes themed website.",
+            "git_url": "https://github.com/jadeam0/7-deadly-sin.git",
+            "netli_url": "https://jovial-pie-d0f329.netlify.app/"
+        },
+        {
+            "id": 7,
+            "image_url": "https://i.postimg.cc/Zqxx6sbR/Screenshot-2023-07-07-120625.png",
+            "name": "Calculator",
+            "desc": "A calculator build in JS.",
+            "git_url": "https://github.com/jadeam0/calculator.git",
+            "netli_url": "https://dashing-cocada-275799.netlify.app/"
+        },
+        {
+            "id": 8,
+            "image_url": "https://i.postimg.cc/d3wRWzBp/Screenshot-2023-07-07-121045.png",
+            "name": "BMI Calculator",
+            "desc": "A BMI calculator build in JS.",
+            "git_url": "https://github.com/jadeam0/BMI-calculator.git",
+            "netli_url": "https://luminous-madeleine-6d21ce.netlify.app/"
+        },
+        {
+            "id": 9,
+            "image_url": "https://i.postimg.cc/76dRRPch/Screenshot-2023-07-07-121358.png",
+            "name": "Temperature Converter",
+            "desc": "A temp converter build in JS.",
+            "git_url": "https://github.com/jadeam0/temp-calcu.git",
+            "netli_url": "https://cheerful-douhua-e53e59.netlify.app/"
+        },
+        {
+            "id": 10,
+            "image_url": "https://i.postimg.cc/MHxdjcfC/Screenshot-2023-07-07-121616.png",
+            "name": "Tech Up",
+            "desc": "A simple Ecommers site a practice run.",
+            "git_url": "https://github.com/jadeam0/gadget-shop.git",
+            "netli_url": "https://sensational-bonbon-068662.netlify.app/"
+        },
+        {
+            "id": 11,
+            "image_url": "https://i.postimg.cc/TYfMm9z4/Screenshot-2023-07-07-122232.png",
+            "name": "To-do List",
+            "desc": "A todo list made in JS.",
+            "git_url": "https://github.com/jadeam0/to-do-list.git",
+            "netli_url": "https://cheery-moonbeam-389e98.netlify.app/"
+        },
+        {
+            "id": 12,
+            "image_url": "https://i.postimg.cc/qqM7mTtN/Screenshot-2023-07-07-122503.png",
+            "name": "Anime Galore",
+            "desc": "My first full JS project, a anime ecommers site.",
+            "git_url": "https://github.com/jadeam0/EOMP-Ecommers_site.git",
+            "netli_url": "https://lucent-paprenjak-05829b.netlify.app/"
+        }
+    ],
 
-}
+    "testimonials" : [
+        {
+            "id": 1,
+            "name": "Taahirah Ismail",
+            "image_url": "https://i.postimg.cc/C1RhFtKg/C12-Taahirah-Ismail-1.jpg",
+            "par": "From working with Jadee even for a few weeks, I can tell how passionate she is about what she does. She's always trying new things and won't stop until she has them done perfectly. She's also really helpful when in a crunch and is a great person to have around when in need."
+        },
+        {
+            "id": 2,
+            "name":"Lyle Brown",
+            "image_url":"https://i.postimg.cc/VLdyrM9Y/C12-C-1-Lyle-Brown-2.jpg",
+            "par":"I had the pleasure of working with Jadee on a very tricky project. She led the group well. I admire her resilience. She is always open to learning and helping when in need. 10/10 person, would highly recommend!"
+        },
+        {
+            "id": 3,
+            "name":"Caryn-Jayn Lodewyk",
+            "image_url":"https://i.postimg.cc/4NDtB2bn/Caryn.jpg",
+            "par":"Jadee is an extremely strong, hard-working and dedicated person. She is always ready to take on any issues and does not hesitate to help the next one with any problems they're having. I would definitely recommend her and work with her anytime."
+        },
+        {
+            "id": 4,
+            "name":"John-Bruce Noad",
+            "image_url":"https://i.postimg.cc/fLNtkD6N/john-bruce-noad-portfolio-photo.jpg",
+            "par":"I highly recommend Jadee for any web development projects. Their exceptional skills, dedication, and eagerness to learn are truly impressive. She have a eye for design, a deep understanding of programming languages, and an ability to solve complex problems efficiently. Their commitment to meeting deadlines and the work they put towards achieving their results is outstanding. Working with Jadee was a pleasure, and I have no doubt that they will thrive in their future endeavors as a professional web developer. I wholeheartedly endorse them for any web development opportunities!"
+        },
+        {
+            "id": 5,
+            "name":"Timothy Barry",
+            "image_url":"https://i.postimg.cc/g24m3dXp/C12-Timothy-Barry-1.jpg",
+            "par":"Jadee is a very nice and kind person. She is also very smart and if you ever struggle with something she is always eager to try and help you figure out your problem. She always gives me ideas for my project sometimes small sometimes big but nonetheless she is just a cool person in general."
+        },
+        {
+            "id": 6,
+            "name":"Cheslyn Herman",
+            "image_url":"https://i.postimg.cc/1ts3jCbs/C12-Cheslyn-Herman-1.jpg",
+            "par":"Jadee is a committed and meticulous professional who regularly produces top-notch work. They are an invaluable asset to any company due to their versatility, excellent communication abilities, and enthusiasm for learning. Because of [Your Name]'s great work ethic and upbeat attitude, I heartily recommend them."
+        }
+    ],
